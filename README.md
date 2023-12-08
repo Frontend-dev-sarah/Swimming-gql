@@ -2,7 +2,7 @@
 
 ### What is this repository for?
 
-- This repository is for DESJOYAUX mobile app.
+- This repository is for Swimming mobile app.
 
 ### How do I get set up?
 
