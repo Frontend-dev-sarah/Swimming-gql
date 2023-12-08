@@ -1,0 +1,37 @@
+export default {
+  pages: {
+    waterTemperaturePage: "Température de l'eau",
+    myPool: 'Ma piscine',
+    profile: 'Mon profil',
+    notifications: 'Notifications',
+    menu: 'Menu',
+    filtrationStatPage: 'FiltrationStat',
+    filtrationPage: 'Filtration',
+    cumulativeStatsPage: 'Statistiques cumulées',
+    statsMenuPage: 'Statistiques',
+    WaterQualityPage: "Qualité de l'eau",
+    ProjectorsPage: 'Projecteurs',
+    CameraPage: 'Surveillance vidéo',
+    AppParamsPage: "Paramètres de l'application",
+  },
+  params: {
+    language: 'Idioma de la aplicación',
+    selectLanguage: 'Selecciona un idioma',
+    languages: {
+      french: 'Francés',
+      english: 'Inglés',
+      german: 'Alemán',
+      italian: 'Italiano',
+      portuguese: 'Portugués',
+      spanish: 'Español',
+    },
+    languagesCode: {
+      french: 'fr',
+      english: 'en',
+      german: 'de',
+      italian: 'it',
+      portuguese: 'pt',
+      spanish: 'es',
+    },
+  },
+};
